@@ -1,0 +1,14 @@
+a) programming language
+b) snake
+c) animal
+d) food
+
+a) 3
+b) 5
+c) 4
+d) 1
+
+a) a game
+b) a network
+c) a car
+d) a phone
