@@ -1,0 +1,24 @@
+A. Joule
+B. Newton
+C. Watt
+D. Pascal
+
+A. Newton's First Law
+B. Newton's Second Law
+C. Newton's Third Law
+D. Law of Gravitation
+
+A. 3 × 10^8 m/s
+B. 1.5 × 10^8 m/s
+C. 9.8 m/s²
+D. 340 m/s
+
+A. Energy only
+B. Momentum only
+C. Mass only
+D. Momentum and energy
+
+A. Proton
+B. Neutron
+C. Electron
+D. Positron
